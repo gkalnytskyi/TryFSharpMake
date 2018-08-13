@@ -1,0 +1,4 @@
+D:\Projects\Development\TryFake\tryscript.fsx (17,0)-(17,5): Error FS0001: This expression was expected to have type
+    ''a -> 'b'    
+but here has type
+    'IGlobbingPattern'    

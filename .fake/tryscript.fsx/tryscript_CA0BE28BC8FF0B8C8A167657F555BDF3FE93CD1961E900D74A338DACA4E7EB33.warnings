@@ -1,0 +1,1 @@
+D:\Projects\Development\TryFake\tryscript.fsx (15,7)-(15,47): Error FS0001: The type 'IGlobbingPattern' is not compatible with the type 'seq<'a>'

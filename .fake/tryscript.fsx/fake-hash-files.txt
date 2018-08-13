@@ -1,0 +1,2 @@
+scriptpath:///tryscript.fsx
+scriptpath:///.fake/tryscript.fsx/intellisense.fsx
